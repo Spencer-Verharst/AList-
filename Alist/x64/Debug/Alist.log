@@ -1,0 +1,19 @@
+﻿  diverAList.cpp
+C:\Users\spenc\source\repos\Alist\AList.h(100,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'diverAList.cpp')
+      C:\Users\spenc\source\repos\Alist\AList.h(100,20):
+      the template instantiation context (the oldest one first) is
+          C:\Users\spenc\source\repos\Alist\diverAList.cpp(34,15):
+          see reference to class template instantiation 'AList<short>' being compiled
+          C:\Users\spenc\source\repos\Alist\AList.h(71,1):
+          while compiling class template member function 'AList<short>::AList(int)'
+              C:\Users\spenc\source\repos\Alist\diverAList.cpp(34,24):
+              see the first reference to 'AList<short>::AList' in 'main'
+          C:\Users\spenc\source\repos\Alist\AList.h(94,1):
+          while compiling class template member function 'bool AList<short>::_resize(void)'
+              C:\Users\spenc\source\repos\Alist\AList.h(131,10):
+              see the first reference to 'AList<short>::_resize' in 'AList<short>::insertFront'
+              C:\Users\spenc\source\repos\Alist\diverAList.cpp(41,2):
+              see the first reference to 'AList<short>::insertFront' in 'main'
+  
+  Alist.vcxproj -> C:\Users\spenc\source\repos\Alist\x64\Debug\Alist.exe
