@@ -4,14 +4,7 @@
 //
 //		Student:				Spencer Verharst
 //
-//		Assignment:				Program #04
-//
 //		Course Name:			Data Structures I
-//
-//		Course Number:			COSC 3050-Z1
-//
-//		Due:					Thursday, September 25th
-//
 //
 //		This program is the driver file for the AList class.
 //	
