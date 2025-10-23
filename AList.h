@@ -6,9 +6,6 @@
 //
 //		Course Name:			Data Structures I
 //
-//		Course Number:			COSC 3050-Z1
-//
-//
 //		This program sets up the Alist class as a template.
 //	
 //		Other files required: 
